@@ -31,4 +31,4 @@ I built an Airbnb Analysis Dashboard using **Excel** and **Tableau** to analyze 
 Or you can visit my **Tableau Public** profile for better visibility.
 Link is given in the Bio!
 
-**Thankyou**
+**Thankyou!**
