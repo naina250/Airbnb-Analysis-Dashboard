@@ -8,7 +8,9 @@ I built an Airbnb Analysis Dashboard using **Excel** and **Tableau** to analyze 
 - **Total Listings:** 490  
 - **States Covered:** 21  
 - **Average Price:** ₹925  
-- **Average Ratings:** 1.8 ★  
+- **Average Ratings:** 1.8 ★
+
+---
 
 ## Key Insights:
 - Higher number of listings are in **Goa**, **Maharashtra**, **Delhi** and **South India**, which means high concentration of listings on heavy tourist place.
@@ -20,7 +22,7 @@ I built an Airbnb Analysis Dashboard using **Excel** and **Tableau** to analyze 
 
 ##  Tools Used
 - **Excel** – for data cleaning and preprocessing  
-- **Tableau** – for building the dashboard and visual insights
+- **Tableau** – for building the dashboard and visual insights 
 
 ---
 
@@ -31,4 +33,5 @@ I built an Airbnb Analysis Dashboard using **Excel** and **Tableau** to analyze 
 Or you can visit my **Tableau Public** profile for better visibility.
 Link is given in the Bio!
 
+---
 **Thankyou!**
