@@ -30,7 +30,7 @@ I built an Airbnb Analysis Dashboard using **Excel** and **Tableau** to analyze 
 
 ![Airbnb Dashboard](Airbnb_Dashboard_Image.png)
 
-Or you can visit my **Tableau Public** profile for better visibility.
+Or you can visit my **Tableau Public** profile for dynamic visibility.
 Link is given in the Bio!
 
 ---
