@@ -29,9 +29,5 @@ I built an Airbnb Analysis Dashboard using **Excel** and **Tableau** to analyze 
 ##  Dashboard Snapshot
 
 ![Airbnb Dashboard](Airbnb_Dashboard_Image.png)
+> Viwe the interactive version here.[Tableau Public](https://public.tableau.com/app/profile/naina.sonkar/viz/AirbnbAnalysisDashboard_17459572047050/Dashboard1)
 
-Or you can visit my **Tableau Public** profile for dynamic visibility.
-https://public.tableau.com/app/profile/naina.sonkar/viz/AirbnbAnalysisDashboard_17459572047050/Dashboard1
-
----
-**Thankyou!**
